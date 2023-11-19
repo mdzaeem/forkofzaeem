@@ -1,5 +1,5 @@
 ## Programs and Algorithms for entertainment, academic and research purposes.
-### Author: Zaeem Yousaf
+### Author: Mohammed Zaeem
 ### University: FAST NUCES(Lahore)
 
 Everyone is free to copy the code, modify and share with others.
